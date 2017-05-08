@@ -39,7 +39,7 @@
     "oscarotero/env": "^1.0",
     "roots/wp-password-bcrypt": "1.0.0",
     "wpackagist-plugin/jetpack": "4.5",
-    "danielbachhuber/dictator": "dev-master",
+    "danielbachhuber/dictator": "0.1",
     "wpackagist-plugin/theme-blvd-layout-builder": "2.1.0",
     "wpackagist-plugin/theme-blvd-widget-areas": "1.2.4",
     "wpackagist-plugin/theme-blvd-widget-pack": "1.0.5",
