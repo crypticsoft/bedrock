@@ -1,3 +1,4 @@
+DEPLOY_UNFINISHED
 # Application
 web/app/plugins/*
 !web/app/plugins/.gitkeep
